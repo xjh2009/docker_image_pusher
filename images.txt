@@ -1,1 +1,2 @@
 louislam/uptime-kuma
+louislam/uptime-kuma:1
