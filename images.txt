@@ -4,3 +4,4 @@ zunfox/ypayimac_v3
 zunfox/ypayimac_v2
 zunfox/ypayipad_v4
 debian:10.13
+ghcr.io/home-assistant/home-assistant:stable
