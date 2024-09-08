@@ -1,4 +1,4 @@
 louislam/uptime-kuma
 louislam/uptime-kuma:1
 ghcr.io/home-assistant/home-assistant:stable
-mzz2017/v2raya
+ubuntu:22.04
