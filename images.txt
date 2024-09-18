@@ -1,5 +1,1 @@
-louislam/uptime-kuma
-louislam/uptime-kuma:1
-ghcr.io/home-assistant/home-assistant:stable
-docker.umami.is/umami-software/umami:mysql-latest
-mysql:8.0.39
+mysql:8.0
