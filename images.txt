@@ -1,1 +1,1 @@
-postgres:15-alpine
+ghcr.io/parkervcp/yolks:wine_staging
