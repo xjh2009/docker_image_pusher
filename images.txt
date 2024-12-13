@@ -1,1 +1,1 @@
-ghcr.io/parkervcp/yolks:wine_staging
+badapple9/speedtest-x
