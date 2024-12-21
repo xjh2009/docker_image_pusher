@@ -1,1 +1,1 @@
-badapple9/speedtest-x
+ghcr.io/sarperavci/cloudflarebypassforscraping:latest
